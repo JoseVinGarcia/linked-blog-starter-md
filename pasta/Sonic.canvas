@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"254372d23543c64a","type":"text","text":"First game","x":-420,"y":-220,"width":250,"height":60,"color":"6"},
+		{"id":"7f271bab9bcf5096","type":"text","text":"First Movie","x":-100,"y":-220,"width":250,"height":60,"color":"1"},
+		{"id":"2b13d39ff11f4a49","type":"file","file":"remote-blog/pasta/Sonic 1999.md","x":-420,"y":-140,"width":250,"height":240}
+	],
+	"edges":[
+		{"id":"2bb93a7f53bc7611","fromNode":"254372d23543c64a","fromSide":"bottom","toNode":"2b13d39ff11f4a49","toSide":"top"}
+	]
+}
